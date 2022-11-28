@@ -21,3 +21,5 @@ class Carta {
 
 console.log(crearMazoDeCartas());
 
+
+
